@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="codingimg" width="400px" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehachaursia&label=Profile%20views&color=0e75b6&style=flat" alt="snehachaursia" /> </p>
+
 - 🌱 I’m currently learning **Development.**
 
 <h3 align="left">Connect with me:</h3>
