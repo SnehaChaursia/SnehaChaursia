@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=snehachaursia&label=Profile%20views&color=0e75b6&style=flat" alt="snehachaursia" />
 </p>
 
-- 🌱 I'm currently learning **Ruby, Jekyll and Open Source (GSoC contributor)**
+- 🌱 I'm currently learning **Ruby, Jekyll and Open Source**
 - 👨‍💻 Check out my work on [GitHub](https://github.com/SnehaChaursia)
 - 📫 Reach me at **chaurasiasneha30@gmail.com**
 
