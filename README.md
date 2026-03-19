@@ -8,7 +8,6 @@
 </p>
 
 - 🌱 I'm currently learning **Ruby, Jekyll and Open Source**
-- 👨‍💻 Check out my work on [GitHub](https://github.com/SnehaChaursia)
 - 📫 Reach me at **chaurasiasneha30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
